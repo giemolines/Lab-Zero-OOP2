@@ -64,6 +64,8 @@ namespace LabZeroOOP2
                 }
             }
 
+            //
+
             Console.WriteLine($"The sum of the numbers from the file is {sum}");
             foreach (double n in nums)
             {
